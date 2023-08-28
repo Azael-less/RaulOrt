@@ -1,7 +1,21 @@
 <h1 align="center">Hola 👋, me llamo Raul Ortiz</h1>
 <h3 align="center">Desarrolador web full stack Junior advance con mas de +800 graduado de Henry y estudiante de la carrera de Analisis y desarrollo de sofware</h3>
 
-- 📫 How to reach me **puedes contactarme por mi Gmail raulpcq22@gmail.com o mi numero (+57) 322 600 4703**
+- 🔭 Actualmente estoy trabajando **en el desarrollo de mis habilidades y en mantener una vida productiva**
+
+- 🌱 Actualmente estoy **mejorando el dominio de lo que son los stacks que maneja, MERN y PERN desarrollando nuevos proyectos**
+
+- 👯 Estoy buscando colaborar en **nuevos proyectos y equipos donde se tenga en cuenta el valor humano**
+
+- 👨‍💻 Todos mis proyectos están disponibles en el apartado de repositorios
+
+- 📝 Escribo regularmente artículos sobre relatos, cuentos e historias)
+
+- 💬 Pregúntame sobre **cualquier duda que tengas, si no la se responder, investigare hasta saberlo**
+
+- 📫 Por donde puedo contactarte: **puedes contactarme por mi Gmail raulpcq22@gmail.com o mi numero (+57) 322 600 4703**
+
+- ⚡ Dato curioso sobre mi **soy una persona con sesgos e ideologías poco ortodoxas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
